@@ -1,3 +1,7 @@
 This is for pushing repo created in local system to remote.
 making changes from remote side
+<<<<<<< HEAD
 understanding merge
+=======
+understanding branching concept
+>>>>>>> e4cd383c939fa59eb05bdf9bd5b99fda968c086b
